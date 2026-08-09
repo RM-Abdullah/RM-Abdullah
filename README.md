@@ -6,9 +6,9 @@ I build AI-driven systems by combining hands-on machine learning research with p
 
 What I work on:
 
-Applied Generative AI — LLM-powered chatbots, automation workflows, and structured AI agents built with Claude and OpenAI tools
-AI Security — ML-based anomaly detection and defense systems, including a honeypot and SQL injection detection framework
-Computer Vision — CNN and Vision Transformer (ViT) based models for image classification and object detection
+Applied Generative AI LLM-powered chatbots, automation workflows, and structured AI agents built with Claude and OpenAI tools
+AI Security ML-based anomaly detection and defense systems, including a honeypot and SQL injection detection framework
+Computer Vision CNN and Vision Transformer (ViT) based models for image classification and object detection
 
 Background:
 
