@@ -78,7 +78,7 @@ A video calling concept where each person hears the other in their own language 
 **Q1 Journal Article**, *Engineering Applications of Artificial Intelligence* (Elsevier)
 > Machine learning solutions with deep multilayer exogenous networks for distributed denial of service attacks model on networked resources in   critical infrastructure
 
-**Research interests:** document AI, vision transformers and CNNs, ML-based security systems, multimodal LLMs for biomedical data.
+**Research interests:** document AI, vision transformers and CNNs, ML-based cybersecurity systems, Nanoscale adversarial devices, Multimodal LLMs for biomedical data.
 
 ---
 
