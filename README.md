@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0f6e56,1d9e75&height=200&section=header&text=Rana%20M.%20Abdullah&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Document%20AI%20%7C%20Computer%20Vision%20%7C%20AI%20Security&descAlignY=58&descSize=15)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0f6e56,1d9e75&height=200&section=header&text=Rana%20M.%20Abdullah%20Zaeem&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Document%20AI%20%7C%20Computer%20Vision%20%7C%20AI%20Security&descAlignY=58&descSize=15)
 
 ![Location](https://img.shields.io/badge/Based%20in-Taiwan-0F6E56?style=flat)
 ![Work rights](https://img.shields.io/badge/Open%20work%20rights-Taiwan-1D9E75?style=flat)
@@ -76,7 +76,7 @@ A video calling concept where each person hears the other in their own language 
 ## Research
 
 **Q1 Journal Article**, *Engineering Applications of Artificial Intelligence* (Elsevier)
-> [Paper title here](https://doi.org/your-doi-here)
+> Machine learning solutions with deep multilayer exogenous networks for distributed denial of service attacks model on networked resources in   critical infrastructure
 
 **Research interests:** document AI, vision transformers and CNNs, ML-based security systems, multimodal LLMs for biomedical data.
 
