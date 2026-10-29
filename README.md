@@ -133,9 +133,9 @@ A video calling concept where each person hears the other in their own language 
 Open to AI Engineer, Document AI, Computer Vision and AI Security roles in Taiwan, available full time from March 2027.
 
 <p align="left">
-<a href="https://linkedin.com/in/[your-handle]" target="(https://www.linkedin.com/in/rana-abdullah-zaeem-91693322b/)"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/rana-abdullah-zaeem-91693322b/" target="()"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:abdullahzaeem852@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
-<a href="https://scholar.google.com/" target="https://scholar.google.com/citations?user=DZ6t32sAAAAJ&hl=en&oi=ao"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white" /></a>
+<a href="https://scholar.google.com/citations?user=DZ6t32sAAAAJ&hl=en&oi=ao" target="()"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white" /></a>
 </p>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0f6e56,1d9e75&height=100&section=footer)
